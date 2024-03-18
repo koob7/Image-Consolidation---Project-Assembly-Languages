@@ -1,1 +1,1 @@
-# JA_Proj
+# Projekt: Java w internecie i urządzeniach mobilnych
