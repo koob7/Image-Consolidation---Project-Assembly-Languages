@@ -1,1 +1,1 @@
-# Projekt: Języki asemblerowe
+The aim of the project is to create a tool for effectively removing black backgrounds from images and inserting them into a base image without losing quality. The application will allow users to choose a library (e.g., C++ or ASM) and specify paths to the base and inserted images through a graphical interface. Users will also be able to determine the number of threads to use. The output of the program will be the combined image along with a chart showing the execution time for both libraries.
